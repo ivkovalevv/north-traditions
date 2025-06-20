@@ -1,7 +1,7 @@
 # ❄️ Музей традиций севера - лендинг
 
-[![Демо](https://img.shields.io/badge/-ДЕМО-1E88E5?style=for-the-badge)](https://example.com/museum-demo)
-[![Исходники](https://img.shields.io/badge/-КОД-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/username/museum-project)
+[![Демо](https://img.shields.io/badge/-ДЕМО-1E88E5?style=for-the-badge)](https://ivkovalevv.github.io/north-traditions/)
+[![Исходники](https://img.shields.io/badge/-КОД-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ivkovalevv/north-traditions)
 
 Элегантный лендинг для Музея традиций севера с современным дизайном
 
